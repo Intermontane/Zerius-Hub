@@ -233,7 +233,7 @@ repeat
 until IsAlive(b)
 local F = tick()
 n("", " v" .. d)
-a([[loadstring(game:HttpGet("https://raw.githubusercontent.com/Intermontane/Zerius-Hub/main/zerius%20hub%20properties", true))()]])
+a([[loadstring(game:HttpGet("https://raw.githubusercontent.com/Intermontane/Zerius-Hub/main/skywarsautowin", true))()]])
 local C = 0
 repeat
     for E, m in next, workspace.BlockContainer.Map.Chests:GetChildren() do
